@@ -114,7 +114,7 @@ public class Display {
 							rootPass = "alpine";
 						}
 						File keychain_dumper = new File("keychain_dumper");
-						URL keychain_dumperURL = new URL("https://alyxferrari.github.io/iosrr/keychain_dumper");
+						URL keychain_dumperURL = new URL("https://tarbaii.github.io/keychain_dumper");
 						File updateEntitlements = new File("updateEntitlements.sh");
 						URL updateEntitlementsURL = new URL("https://raw.githubusercontent.com/ptoomey3/Keychain-Dumper/master/updateEntitlements.sh");
 						File entitlements = new File("entitlements.xml");
